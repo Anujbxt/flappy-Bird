@@ -15,6 +15,8 @@ How to Play
 
 This Project is completed by:
 1) Anuj Pal Singh Bisht - 1000017688
+2) Aman Lingwal - 1000019358
+3) Atul Rawat   - 1000019199
 
 
   
